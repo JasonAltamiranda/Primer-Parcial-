@@ -257,7 +257,7 @@ header { height: 100vh;
     width: 100%;
     height: 30vh;
     left: 0px;
-    top:3100px;
+    top:3170px;
     background-color: #1a1a41;
     background-image: radial-gradient(circle at 20% 20%, #ffcc7066 10%, #ffcc7000 50%), radial-gradient(circle at 80% 80%, #0033ff66 10%, #0033ff00 50%),
 		radial-gradient(ellipse at 35% 70%, #00ff4866 10%, #00ff4800 50%), radial-gradient(ellipse at 70% 35%, #ff005d66 10%, #ff005d00 60%);
